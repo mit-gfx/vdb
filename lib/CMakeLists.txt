@@ -8,6 +8,7 @@ set(CPP_FILES
 
 set(PUBLIC_HEADERS
     vdb.h
+    vdb_impl.h
     )
 
 set(PRIVATE_HEADERS
